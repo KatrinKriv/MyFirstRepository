@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.unordered_list{
+    font: 400 16px "Book Antiqua";
+    color: blueviolet;
+    line-height: 20px;
+
+}
+.list_link a{
+    text-decoration: none;
+    color: blue;
+    font: 400 16px "Book Antiqua";
+}
+
+h2{
+    color: darkmagenta;
+    font: 600 20px "Book Antiqua";
+    margin: 0;
+}
+div {
+    background-color: #7cfc00;
+}
